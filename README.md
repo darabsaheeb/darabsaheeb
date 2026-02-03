@@ -1,7 +1,7 @@
 ## Skills
 
 ### Programming Languages
-- Python, Java, C++, JavaScript/TypeScript, SQL, HTML/CSS
+- Python, Java, C++, JavaScript/TypeScript, SQL, HTML/CSS, R/R Studio
 
 ### Machine Learning & Data
 - NumPy, Pandas, Scikit-learn, Jupyter
